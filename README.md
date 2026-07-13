@@ -34,7 +34,6 @@ pnpm install
 pnpm dev
 
 
-```bash
 2. Setup Utility Helper (cn)
 
 The components in this project combine clsx and tailwind-merge to handle dynamic, conditional classes seamlessly without any style conflicts.
